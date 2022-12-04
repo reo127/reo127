@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **64rohanmalo@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3XTFJyg](bit.ly/3XTFJyg)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15M9pkvPPmoc7bZ9kx31v3iPO_kcoh1NA/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
