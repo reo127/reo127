@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rohan Malo</h1>
-<h3 align="center">A passionate JavaScript developer from India. I build scalable and responsive react components</h3>
+<h3 align="center">A passionate JavaScript developer from India. I build scalable and responsive web apps using modern technology like react.js, node, express.js, tailwindCSS etc </h3>
 
 
 
