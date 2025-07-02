@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **redux, node.js, mongodb**
 
-- 👨‍💻 All of my projects are available at [https://rohanmalo.netlify.app/](https://rohanmalo.netlify.app/)
+- 👨‍💻 All of my projects are available at [Check my portfolio site](https://rohan-beta.vercel.app/)
 
-- 📝 I sometimes write articles on [https://rohan127.hashnode.dev/](https://rohan127.hashnode.dev/)
+- 📝 I sometimes write articles on [Checkout my blogs at hashnode](https://rohan127.hashnode.dev/)
 
 - 💬 Ask me about **react.js, TailwindCSS, JavaScript**
 
 - 📫 How to reach me **64rohanmalo@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15M9pkvPPmoc7bZ9kx31v3iPO_kcoh1NA/view)
+<!--- - 📄 Know about my experiences [resume](https://drive.google.com/file/d/15M9pkvPPmoc7bZ9kx31v3iPO_kcoh1NA/view) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
